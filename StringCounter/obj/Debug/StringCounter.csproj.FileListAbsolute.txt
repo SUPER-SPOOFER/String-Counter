@@ -1,0 +1,13 @@
+D:\[Supers Creations]\StringCounter\StringCounter\bin\Debug\StringCounter.exe.config
+D:\[Supers Creations]\StringCounter\StringCounter\bin\Debug\StringCounter.exe
+D:\[Supers Creations]\StringCounter\StringCounter\bin\Debug\StringCounter.pdb
+D:\[Supers Creations]\StringCounter\StringCounter\bin\Debug\Siticone.UI.dll
+D:\[Supers Creations]\StringCounter\StringCounter\obj\Debug\StringCounter.csproj.AssemblyReference.cache
+D:\[Supers Creations]\StringCounter\StringCounter\obj\Debug\StringCounter.csproj.SuggestedBindingRedirects.cache
+D:\[Supers Creations]\StringCounter\StringCounter\obj\Debug\StringCounter.Form1.resources
+D:\[Supers Creations]\StringCounter\StringCounter\obj\Debug\StringCounter.Properties.Resources.resources
+D:\[Supers Creations]\StringCounter\StringCounter\obj\Debug\StringCounter.csproj.GenerateResource.cache
+D:\[Supers Creations]\StringCounter\StringCounter\obj\Debug\StringCounter.csproj.CoreCompileInputs.cache
+D:\[Supers Creations]\StringCounter\StringCounter\obj\Debug\StringCounter.csproj.CopyComplete
+D:\[Supers Creations]\StringCounter\StringCounter\obj\Debug\StringCounter.exe
+D:\[Supers Creations]\StringCounter\StringCounter\obj\Debug\StringCounter.pdb
